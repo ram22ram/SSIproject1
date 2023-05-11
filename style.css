@@ -9,3 +9,7 @@
       display: none;
     }
   }
+
+.dropdown-toggle::after {
+    margin-left: 0.5rem;
+}
